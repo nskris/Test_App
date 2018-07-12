@@ -15,7 +15,7 @@ boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
 boolean resizable = true
-long backcolor = 67108864
+long backcolor = 65535
 string icon = "AppIcon!"
 boolean center = true
 st_1 st_1
@@ -45,6 +45,7 @@ string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
 string text = "PowerBuilder 2017"
+long bordercolor = 134217752
 boolean focusrectangle = false
 end type
 
