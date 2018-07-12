@@ -44,7 +44,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "PowerBuilder 2017"
+string text = "PowerBuilder(Appeon) 2017"
 long bordercolor = 134217752
 boolean focusrectangle = false
 end type
